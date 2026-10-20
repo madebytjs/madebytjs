@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Tyler 👋
 
-<!--
-**madebytjs/madebytjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer from the North East of England with 12+ years of experience building websites, applications and e-commerce solutions.
 
-Here are some ideas to get you started:
+Most of my professional work involves PHP, WordPress, JavaScript and Shopify, but I enjoy exploring new technologies and finding better ways to build things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 What I work with
+
+**Languages:** PHP, JavaScript, TypeScript, HTML, CSS, SQL
+
+**Frameworks & platforms:** WordPress, WooCommerce, Shopify, Laravel, Statamic, Payload CMS
+
+**Tools:** Git, Docker, Cloudflare, WP-CLI, ACF Pro, REST APIs
+
+### 👾 A little more about me
+
+- 💻 Web developer by day, tinkerer by night
+- 🎮 Into gaming, handhelds, emulation and retro projects
+- 🤖 Exploring AI-assisted development and automation
+- 🧩 Usually working on something I probably don't need to be working on
+
+### 📫 Get in touch
+
+Feel free to connect with me on LinkedIn or explore what I'm building here on GitHub.
